@@ -8,7 +8,6 @@ An e-commerce application using flutter, make effort to build it better. What we
 
 ## Finally Preview
 
-**Not only iOS and Android but also Web.**
 ![](./preview/Preview%207.png)
 ![](./preview/Preview%203.png)
 ![](./preview/Preview%208.png)
